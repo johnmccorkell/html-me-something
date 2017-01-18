@@ -1,4 +1,4 @@
-h1 {
+#intro {
     text-align: center;
     color: black;
     font-family: Impact;
@@ -19,7 +19,7 @@ h2 {
 }
 
 
-p {
+.main {
     font-family: Tahoma;
     font-size:20px;
 }
@@ -82,3 +82,8 @@ article img  {
         border-radius: 50%;
 
        }
+
+    #quote {
+        font-family:cursive;
+        font-size:15px;
+    }
